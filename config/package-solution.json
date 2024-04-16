@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wp-progetto-crud-client-side-solution",
+    "id": "13a4bd13-cc60-4301-ade7-f145a783f518",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "wp-progetto-crud description"
+      },
+      "longDescription": {
+        "default": "wp-progetto-crud description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "wp-progetto-crud Feature",
+        "description": "The feature that activates elements of the wp-progetto-crud solution.",
+        "id": "9de9fca3-a257-4406-8670-2a67247531e3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/wp-progetto-crud.sppkg"
+  }
+}

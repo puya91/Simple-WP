@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "wp-progetto-crud",
+    "libraryId": "13a4bd13-cc60-4301-ade7-f145a783f518",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "wp-progetto-crud",
+    "solutionShortDescription": "wp-progetto-crud description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
